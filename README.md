@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, DSA, AWS**
 
-- 💬 Ask me about **Django, DRF**
+- 💬 Ask me about **Pandas, Django, DRF**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
