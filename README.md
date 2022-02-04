@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/lynx2161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lynx2161" height="20" width="30" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx-gh&show_icons=true&theme=github_dark&locale=en&langs_count=10&hide=TeX&hide_border=true" alt="lynx-gh" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lynx-gh&show_icons=true&theme=github_dark&locale=en&langs_count=6&hide=TeX&hide_border=true" alt="lynx-gh" /></p>
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
