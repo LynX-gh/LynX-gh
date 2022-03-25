@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx-gh&label=Profile%20views&color=db7500&style=plastic" alt="lynx-gh" /> </p>
 
-- 🌱 I’m currently learning **React, DSA, AWS**
+- 🌱 I’m currently learning **React, DSA, FastAPI, AWS**
 
 - 💬 Ask me about **Data Analysis, Django, DRF**
 
