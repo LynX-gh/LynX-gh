@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx-gh&label=Profile%20views&color=db7500&style=for-the-badge" alt="lynx-gh" /> </p>
 
-- 🌱 I’m currently learning **DSA, FastAPI, AWS**
+- 🌱 I’m currently learning **DSA, Docker, FastAPI, AWS**
 
 - 💬 Ask me about **Data Analysis, Django, Azure**
 
