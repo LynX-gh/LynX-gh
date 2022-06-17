@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx-gh&label=Profile%20views&color=db7500&style=for-the-badge" alt="lynx-gh" /> </p>
 
-- 🌱 I’m currently learning **React, DSA, FastAPI, AWS**
+- 🌱 I’m currently learning **DSA, FastAPI, AWS**
 
-- 💬 Ask me about **Data Analysis, Django, DRF**
+- 💬 Ask me about **Data Analysis, Django, Azure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
