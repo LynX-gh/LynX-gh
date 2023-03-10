@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx-gh&label=Profile%20views&color=db7500&style=for-the-badge" alt="lynx-gh" /> </p>
 
-- 🌱 I’m currently learning **AWS, Docker, DSA**
+- 🌱 I’m currently learning **RL, DL, Containerization, DSA**
 
-- 💬 Ask me about **Data Analysis, REST API, Cloud Hosting, Azure, AWS**
+- 💬 Ask me about **Data Analysis, REST API, Cloud Deployment, Azure/AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
