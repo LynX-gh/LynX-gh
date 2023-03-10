@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RL, DL, Containerization, DSA**
 
-- 💬 Ask me about **Data Analysis, REST API, Cloud Deployment, Azure/AWS**
+- 💬 Ask me about **RESTful APIs, Data Analysis, Cloud Deployment, Azure/AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
