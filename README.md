@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx-gh&label=Profile%20views&color=db7500&style=for-the-badge" alt="lynx-gh" /> </p>
 
-- 🌱 I’m currently learning **RL, DL, Containers**
+- 🌱 I’m currently learning **Frappe, RL, DL, Containers**
 
 - 💬 Ask me about **RESTful APIs, Data Science, Azure/AWS**
 
