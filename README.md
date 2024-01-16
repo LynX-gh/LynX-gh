@@ -58,6 +58,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=lynx-gh&show_icons=true&theme=github_dark&locale=en&count_private=true&hide_border=true" alt="lynx-gh" width="400" /></p>
 
-<p><img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Lynx-gh&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="lynx-gh" width="400" /></p>
+<p><img align="right" src="https://github-readme-streak-stats-lynx-ghs-projects.vercel.app?user=LynX-gh&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="lynx-gh streak" width="400" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lynx-gh&row=1&theme=darkhub&no-frame=true" alt="lynx-gh" style="margin: 4px 0px 0px 0px;"/></a> </p>
