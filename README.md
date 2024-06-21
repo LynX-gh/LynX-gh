@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width=30 />, I'm Khush Ramani</h1>
-<h3 align="center">A Backend Developer looking for opportunities</h3>
+<h3 align="center">A Junior Software Engineer looking for collaboration opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lynx-gh&label=Profile%20views&color=db7500&style=for-the-badge" alt="lynx-gh" /> </p>
 
